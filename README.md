@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arman Afat
 - 👀 I’m interested in Code & UI/UX
 - 🌱 I’m currently learning Flutter 
-- 📫 How to reach me 
+- 📫 arman.afat@gmail.com 
 
 <!---
 armanafat/armanafat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

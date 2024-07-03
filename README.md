@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arman Afat
-- 👀 I’m interested in Code & UI/UX
-- 🌱 I’m currently learning Flutter 
+- 👀 I'm Flutter Developer
+- 🌱 Working On Bank application right now.
 - 📫 arman.afat@gmail.com 
 
 <!---

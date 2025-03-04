@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arman Afat
-- 👀 I'm Flutter Developer
-- 🌱 Working On Bank application right now.
+- Today's Flutter Developer tomorrow's software Engineer
+- Currently Working On Bank application right now.
 - 📫 arman.afat@gmail.com 
 
 <!---
